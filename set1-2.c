@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(void)
 {
-int a;
-if(a%2==0)
+int n;
+if(n%2==0)
 {
 printf("even");
 }
